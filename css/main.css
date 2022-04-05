@@ -1117,10 +1117,10 @@ header .logo a {
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
-	width: 92px;
-	height: 15px;
+	width: 150px;
+	height: 35px;
 	background: url("../images/menu.png") no-repeat center;
-	background-size: 92px 15px;
+	background-size: 150px 40px;
 }
 
 /**
