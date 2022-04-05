@@ -1,0 +1,276 @@
+<!-- modal popups - begin
+	            ============================================================= -->
+<!-- <div id="modal-01" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-Python.jpeg" alt="" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Python</h4>		      
+					      <p>
+							  <li>Python list and dictionary</li>
+							  <li>Python OpenCV </li>
+							  <li>Convert TSV to CSV</li>
+						  </p>
+
+					      <div class="categories">And list continues...</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <a href="https://auth.geeksforgeeks.org/user/rushi_javiya/articles" target="_blank">Details</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+				   </div> <!-- /modal-01 -->
+
+<div id="modal-02" class="popup-modal slider mfp-hide">
+
+    <div class="media">
+        <img src="images/portfolio/modals/m-gadgets.jpg" alt="" />
+    </div>
+
+    <div class="description-box">
+        <h4>Gadget</h4>
+        <p>
+            <li>Gadgets That Will Make Your Home Smart</li>
+            <li>The Best Gaming Graphic Card for PC/Laptop</li>
+            <li>Cool Winter Technical Gadgets in 2021</li>
+        </p>
+
+        <div class="categories">And list continues...</div>
+    </div>
+
+    <div class="link-box">
+        <a href="https://techfornerdz.com/" target="_blank">Details</a>
+        <a href="#" class="popup-modal-dismiss">Close</a>
+    </div>
+
+</div> <!-- /modal-02 -->
+
+<div id="modal-03" class="popup-modal slider mfp-hide">
+
+    <div class="media">
+        <img src="images/portfolio/modals/m-clouds.jpg" alt="" />
+    </div>
+
+    <div class="description-box">
+        <h4>Cloud</h4>
+        <p>
+            <li>Some Biggest Myths about Multi-Cloud</li>
+            <li>Top 10 Cloud Security Challenges in 2021</li>
+            <li>What is Hybrid Cloud? Defination of Hybrid Cloud</li>
+        </p>
+
+        <div class="categories">And list continues...</div>
+    </div>
+
+    <div class="link-box">
+        <a href="https://techfornerdz.com/" target="_blank">Details</a>
+        <a href="#" class="popup-modal-dismiss">Close</a>
+    </div>
+
+</div> <!-- /modal-03 -->
+
+<div id="modal-04" class="popup-modal slider mfp-hide">
+
+    <div class="media">
+        <img src="images/portfolio/modals/m-technology.jpg" alt="" />
+    </div>
+
+    <div class="description-box">
+        <h4>Technology</h4>
+        <p>
+            <li>The Most Useful and Fun Alexa Skills</li>
+            <li>How Does GPS(Global Positioning System) Work?</li>
+            <li>The Most Useful and Fun Google Home Skills</li>
+        </p>
+
+        <div class="categories">And list continues...</div>
+    </div>
+
+    <div class="link-box">
+        <a href="https://techfornerdz.com/" target="_blank">Details</a>
+        <a href="#" class="popup-modal-dismiss">Close</a>
+    </div>
+
+</div> <!-- /modal-04 -->
+
+<div id="modal-05" class="popup-modal slider mfp-hide">
+
+    <div class="media">
+        <img src="images/portfolio/modals/m-lighthouse.jpg" alt="" />
+    </div>
+
+    <div class="description-box">
+        <h4>Tips & Tricks</h4>
+        <p>
+            <li>Things that you should never do with your smartphone</li>
+            <li>How to Transfer data Between Android and PC/Laptop?</li>
+            <li>Top 10 Google Play Store Tips and Tricks For Android</li>
+        </p>
+
+        <div class="categories">And list continues...</div>
+    </div>
+
+    <div class="link-box">
+        <a href="https://techfornerdz.com/" target="_blank">Details</a>
+        <a href="#" class="popup-modal-dismiss">Close</a>
+    </div>
+
+</div> <!-- /modal-05 -->
+
+<div id="modal-06" class="popup-modal slider mfp-hide">
+
+    <div class="media">
+        <img src="images/portfolio/modals/m-enhancement.jpg" alt="" />
+    </div>
+
+    <div class="description-box">
+        <h4>Enhancement</h4>
+        <p>
+            <li>How to customize Command Prompt in Windows?</li>
+            <li>The Best VPN Services for PC / Laptop</li>
+            <li>How To Give a High-tech Upgrade to Your Trekking?</li>
+        </p>
+
+        <div class="categories">And list continues...</div>
+    </div>
+
+    <div class="link-box">
+        <a href="https://techfornerdz.com/" target="_blank">Details</a>
+        <a href="#" class="popup-modal-dismiss">Close</a>
+    </div>
+
+</div> <!-- /modal-06 -->
+
+
+
+<!-- Portfolio Section
+   ================================================== -->
+<section id="portfolio">
+
+    <div class="row section-intro">
+        <div class="col-twelve">
+
+            <h5>Blog</h5>
+            <h1>Check Out Some of My Works.</h1>
+
+            <p class="lead">I love writing on technology. I'm especially passionate about using language to progress
+                ideas and information. I create content that attracts and engages with the reader.</p>
+
+        </div>
+    </div> <!-- /section-intro-->
+
+    <div class="row portfolio-content">
+
+        <div class="col-twelve">
+
+            <!-- portfolio-wrapper -->
+            <div id="folio-wrapper" class="block-1-2 block-mob-full stack">
+
+                <div class="bgrid folio-item">
+                    <div class="item-wrap">
+                        <img src="images/portfolio/Python.jpeg" alt="Liberty">
+                        <a href="#modal-01" class="overlay">
+                            <div class="folio-item-table">
+                                <div class="folio-item-cell">
+                                    <h3 class="folio-title">Python</h3>
+                                    <span class="folio-types">
+                                        Education Blogs
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div> <!-- /folio-item -->
+
+                <div class="bgrid folio-item">
+                    <div class="item-wrap">
+                        <img src="images/portfolio/gadgets.jpg" alt="Shutterbug">
+                        <a href="#modal-02" class="overlay">
+                            <div class="folio-item-table">
+                                <div class="folio-item-cell">
+                                    <h3 class="folio-title">Gadget</h3>
+                                    <span class="folio-types">
+                                        Open Happiness
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div> <!-- /folio-item -->
+
+                <div class="bgrid folio-item">
+                    <div class="item-wrap">
+                        <img src="images/portfolio/clouds.jpg" alt="Clouds">
+                        <a href="#modal-03" class="overlay">
+                            <div class="folio-item-table">
+                                <div class="folio-item-cell">
+                                    <h3 class="folio-title">Cloud</h3>
+                                    <span class="folio-types">
+                                        Next-Gen Storage
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div> <!-- /folio-item -->
+
+                <div class="bgrid folio-item">
+                    <div class="item-wrap">
+                        <img src="images/portfolio/technology.jpg" alt="Beetle">
+                        <a href="#modal-04" class="overlay">
+                            <div class="folio-item-table">
+                                <div class="folio-item-cell">
+                                    <h3 class="folio-title">Technology</h3>
+                                    <span class="folio-types">
+                                        Leveraging tech
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div> <!-- /folio-item -->
+
+                <div class="bgrid folio-item">
+                    <div class="item-wrap">
+                        <img src="images/portfolio/lighthouse.jpg" alt="Lighthouse">
+                        <a href="#modal-05" class="overlay">
+                            <div class="folio-item-table">
+                                <div class="folio-item-cell">
+                                    <h3 class="folio-title">Tips & Tricks</h3>
+                                    <span class="folio-types">
+                                        Forward thinking
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div> <!-- /folio-item -->
+
+                <div class="bgrid folio-item">
+                    <div class="item-wrap">
+                        <img src="images/portfolio/enhancement.jpg" alt="Salad">
+                        <a href="#modal-06" class="overlay">
+                            <div class="folio-item-table">
+                                <div class="folio-item-cell">
+                                    <h3 class="folio-title">Enhancement</h3>
+                                    <span class="folio-types">
+                                        leveling up
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div> <!-- /folio-item -->
+                <!-- modal popups - end
+	            ============================================================= -->
+
+            </div> <!-- /portfolio-wrapper -->
+
+        </div> <!-- /twelve -->
+
+    </div> <!-- /portfolio-content -->
+
+</section> <!-- /portfolio -->  
